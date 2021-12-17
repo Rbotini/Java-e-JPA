@@ -1,2 +1,2 @@
 # JPA e Hibernate: Acessando dados em aplicações Java
-Veja neste Projeto Vamos  como criar uma aplicação (CRUD) 
+ neste Projeto Vamos criar uma aplicação (CRUD) 
