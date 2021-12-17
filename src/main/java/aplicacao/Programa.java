@@ -13,7 +13,7 @@ public class Programa {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		Pessoa p1 = new Pessoa(null,"Renato","botinirenato@gmail.com");
+		Pessoa p1 = new Pessoa(null,"Nelci","botinirenato@gmail.com");
 		Pessoa p2 = new Pessoa(null,"Ricardo","botiniricardo@gmail.com");
 		Pessoa p3 = new Pessoa(null,"Patricia","botinipatricia@gmail.com");
 		Pessoa p4 = new Pessoa(null,"Daniela","botinidaniela@gmail.com");
